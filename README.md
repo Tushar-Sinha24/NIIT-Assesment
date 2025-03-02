@@ -18,6 +18,7 @@ Install dependencies:
 **npm i**
 
 **Place input files in the input/ directory.**
+
 Run the script to process files and create chunks:
 **node index.js**
 
