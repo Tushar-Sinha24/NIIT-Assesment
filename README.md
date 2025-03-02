@@ -5,11 +5,8 @@ This project is designed to split large input files into smaller chunks while ma
 **Ensure you have a .env file in the project root with the following variables:**
 
 CHUNK_SIZE_IN_MB=10      # Size of each chunk in MB
-
 OUTPUT_DIR="./output"      # Directory to store chunked files
-
 INPUT_DIR="./input"        # Directory containing input files
-
 CHUNK_JSON="chunks.json"  # Metadata file for chunked files
 
 **How to Use**
