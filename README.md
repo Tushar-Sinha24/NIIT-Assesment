@@ -13,6 +13,7 @@ INPUT_DIR="./input"        # Directory containing input files
 CHUNK_JSON="chunks.json"  # Metadata file for chunked files
 
 **How to Use**
+
 Install dependencies:
 **npm i**
 
